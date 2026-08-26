@@ -22,7 +22,7 @@ from reportlab.platypus import (
 # ============================================================
 
 st.set_page_config(
-    page_title="Mitanshu Patil | MIS & Business Intelligence",
+    page_title="Mitanshu Patil | Data Analyst & Business Intelligence",
     page_icon="◉",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -2179,7 +2179,7 @@ st.markdown(
 <div class="hero-content">
 
 <div class="hero-label">
-MIS • AUTOMATION • BUSINESS INTELLIGENCE
+Data Analyst • AUTOMATION • BUSINESS INTELLIGENCE
 </div>
 
 <div class="hero-name">
@@ -2190,12 +2190,12 @@ Mitanshu<br>
 <div class="hero-divider"></div>
 
 <div class="hero-role">
-Management Information System Professional
+Data Analyst Professional
 </div>
 
 <div class="hero-description">
 
-Results-driven MIS professional specialising in
+Results-driven Data professional specialising in
 reporting, dashboard development, data transformation,
 process automation and business intelligence.
 
