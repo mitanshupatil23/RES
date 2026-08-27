@@ -539,7 +539,7 @@ def generate_resume_pdf():
 
     story.append(
         Paragraph(
-            f"{NAME} • MIS | AUTOMATION | BUSINESS INTELLIGENCE • {CURRENT_YEAR}",
+            f"{NAME} • ANALYTICS | AUTOMATION | BUSINESS INTELLIGENCE • {CURRENT_YEAR}",
             footer_style
         )
     )
@@ -2137,7 +2137,7 @@ st.markdown(
 </div>
 
 <div class="corp-sub">
-    MANAGEMENT INFORMATION SYSTEM
+    DATA ANALYTICS PROFESSIONAL
 </div>
 
 </div>
@@ -2179,7 +2179,7 @@ st.markdown(
 <div class="hero-content">
 
 <div class="hero-label">
-MIS • AUTOMATION • BUSINESS INTELLIGENCE
+ANALYTICS • AUTOMATION • BUSINESS INTELLIGENCE
 </div>
 
 <div class="hero-name">
@@ -2190,12 +2190,12 @@ Mitanshu<br>
 <div class="hero-divider"></div>
 
 <div class="hero-role">
-Management Information System Professional
+Data Analytics Professional
 </div>
 
 <div class="hero-description">
 
-Results-driven MIS professional specialising in
+Results-driven DATA professional specialising in
 reporting, dashboard development, data transformation,
 process automation and business intelligence.
 
@@ -2435,12 +2435,12 @@ with left:
 <div class="profile-card">
 
 <div class="profile-title">
-MIS & Business Reporting
+DATA & Business Reporting
 </div>
 
 <div class="profile-text">
 
-Results-driven MIS professional with experience in
+Results-driven Data professional with experience in
 MIS reporting, dashboard development, data analysis,
 automation and tracker creation.
 
@@ -3013,7 +3013,7 @@ st.markdown(
 
 &nbsp; • &nbsp;
 
-MANAGEMENT INFORMATION SYSTEM
+DATA ANALYTICS
 
 &nbsp; • &nbsp;
 
