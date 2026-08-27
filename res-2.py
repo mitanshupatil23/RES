@@ -22,7 +22,7 @@ from reportlab.platypus import (
 # ============================================================
 
 st.set_page_config(
-    page_title="Mitanshu Patil | Data Analyst & Business Intelligence",
+    page_title="Mitanshu Patil | MIS & Business Intelligence",
     page_icon="◉",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -73,7 +73,7 @@ experience = [
 
     (
         "RESEARCHAYU PVT LTD",
-        "Data Analyst / Reporting & Automation",
+        "MIS / Reporting & Automation",
         "JAN 2026 — AUG 2026",
         [
             "Created automation for MIS reports including hourly and D-1 reporting.",
@@ -86,7 +86,7 @@ experience = [
 
     (
         "STERLING OUTSOURCING PVT LTD",
-        "Data Analyst",
+        "MIS / Customer Experience Reporting",
         "JUL 2025 — JAN 2026",
         [
             "Prepared daily, monthly and quarterly performance reports.",
@@ -2137,7 +2137,7 @@ st.markdown(
 </div>
 
 <div class="corp-sub">
-    DATA ANALYST & AUTOMATION EXPERT
+    MANAGEMENT INFORMATION SYSTEM
 </div>
 
 </div>
@@ -2179,7 +2179,7 @@ st.markdown(
 <div class="hero-content">
 
 <div class="hero-label">
-Data Analyst • AUTOMATION • BUSINESS INTELLIGENCE
+MIS • AUTOMATION • BUSINESS INTELLIGENCE
 </div>
 
 <div class="hero-name">
@@ -2190,12 +2190,12 @@ Mitanshu<br>
 <div class="hero-divider"></div>
 
 <div class="hero-role">
-Data Analyst Professional
+Management Information System Professional
 </div>
 
 <div class="hero-description">
 
-Results-driven Data professional specialising in
+Results-driven MIS professional specialising in
 reporting, dashboard development, data transformation,
 process automation and business intelligence.
 
@@ -2435,12 +2435,12 @@ with left:
 <div class="profile-card">
 
 <div class="profile-title">
-Data Analyst & Business Reporting
+MIS & Business Reporting
 </div>
 
 <div class="profile-text">
 
-Results-driven Data professional with experience in
+Results-driven MIS professional with experience in
 MIS reporting, dashboard development, data analysis,
 automation and tracker creation.
 
@@ -2773,10 +2773,42 @@ section_header(
 )
 
 
-e1, e2 = st.columns(2)
+e1, e2, e3 = st.columns(3)
 
+
+# ------------------------------------------------------------
+# MBA
+# ------------------------------------------------------------
 
 with e1:
+
+    st.markdown(
+        """
+<div class="edu-card">
+
+<div class="edu-year">
+2024 — 2026
+</div>
+
+<div class="edu-degree">
+MBA — Data Science & Business Analytics
+</div>
+
+<div class="edu-institute">
+D.Y. Patil University
+</div>
+
+</div>
+""",
+        unsafe_allow_html=True
+    )
+
+
+# ------------------------------------------------------------
+# BACHELOR OF COMMERCE
+# ------------------------------------------------------------
+
+with e2:
 
     st.markdown(
         """
@@ -2800,7 +2832,11 @@ Mumbai University
     )
 
 
-with e2:
+# ------------------------------------------------------------
+# HSC
+# ------------------------------------------------------------
+
+with e3:
 
     st.markdown(
         """
@@ -2822,8 +2858,6 @@ New English School and JR College
 """,
         unsafe_allow_html=True
     )
-
-
 # ============================================================
 # CONTACT
 # ============================================================
