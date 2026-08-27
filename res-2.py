@@ -2137,7 +2137,7 @@ st.markdown(
 </div>
 
 <div class="corp-sub">
-    MANAGEMENT INFORMATION SYSTEM
+    DATA ANALYST & AUTOMATION EXPERT
 </div>
 
 </div>
@@ -2435,12 +2435,12 @@ with left:
 <div class="profile-card">
 
 <div class="profile-title">
-MIS & Business Reporting
+Data Analyst & Business Reporting
 </div>
 
 <div class="profile-text">
 
-Results-driven MIS professional with experience in
+Results-driven Data professional with experience in
 MIS reporting, dashboard development, data analysis,
 automation and tracker creation.
 
