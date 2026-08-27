@@ -73,7 +73,7 @@ experience = [
 
     (
         "RESEARCHAYU PVT LTD",
-        "MIS / Reporting & Automation",
+        "Data Analyst / Reporting & Automation",
         "JAN 2026 — AUG 2026",
         [
             "Created automation for MIS reports including hourly and D-1 reporting.",
@@ -86,7 +86,7 @@ experience = [
 
     (
         "STERLING OUTSOURCING PVT LTD",
-        "MIS / Customer Experience Reporting",
+        "Data Analyst",
         "JUL 2025 — JAN 2026",
         [
             "Prepared daily, monthly and quarterly performance reports.",
